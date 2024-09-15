@@ -52,7 +52,7 @@ importers:
         specifier: ^7.0.0
         version: 7.18.0(eslint@8.57.0)(typescript@5.6.2)
       autoprefixer:
-        specifier: ^10.4.16
+        specifier: ^10.4.20
         version: 10.4.20(postcss@8.4.47)
       chroma-js:
         specifier: ^2.4.2
