@@ -1,11 +1,11 @@
 export const siteConfig = {
-	name: "Trail",
-	url: "https://coco-palette.netlify.app",
+	name: "Palette Generator",
+	url: "https://metro-palette.netlify.app",
 	ogImage: "/og.png",
-	description: "Trail is a simple project/tasks manager web app ",
+	description: "name a color, get a palette palette generator transforms your color ideas into stunning color schemes",
 	links: {
-		twitter: "https://twitter.com/ibrahimraimi",
-		github: "https://github.com/ibrahimraimi/coco-palette"
+		twitter: "https://twitter.com/metro_0x",
+		github: "https://github.com/ibrahimraimi/palette-generator"
 	},
 	keywords: ``
 };
