@@ -72,7 +72,7 @@
 		)}
 	>
 		<header class="border-b px-4 py-2">
-			<h1 class="flex items-center gap-1 text-sm">Palette generator</h1>
+			<h1 class="flex items-center gap-1 text-sm">Metro Pallete</h1>
 		</header>
 
 		<form
