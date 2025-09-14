@@ -335,7 +335,7 @@
 			<div class="flex flex-1 items-end justify-end gap-1 p-1 text-xs">
 				<a
 					class="transition-opacity hover:opacity-80"
-					href="https://twitter.com/metro_0x"
+					href="https://twitter.com/ibrahimraimi_"
 					target="_blank"
 					rel="noopener noreferrer">Built by Metro</a
 				>
