@@ -58,7 +58,7 @@
 	"dependencies": {
 		"clsx": "^2.1.1",
 		"tailwind-merge": "^2.5.5",
-		"tailwind-variants": "^0.2.1",
+		"tailwind-variants": "^0.3.0",
 		"vaul-svelte": "^0.3.2"
 	}
 }
